@@ -33,4 +33,4 @@ WebApp that simulates shopping cart of the game store.
 * Ability to increase or descrease the amount of games inside cart
 * Ability to add images to each game
 * Ability to expand each game's description
-* Cart session are instantly saves in database to show items inside cart even after page reload
+* Cart session are instantly saves in database to show items inside cart even after page reloading
