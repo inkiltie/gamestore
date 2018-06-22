@@ -52071,24 +52071,6 @@ var Navigation = function (_Component) {
           null,
           _react2.default.createElement(
             _reactBootstrap.Nav,
-            null,
-            _react2.default.createElement(
-              _reactBootstrap.NavItem,
-              {
-                eventKey: 1,
-                href: '/about' },
-              'About'
-            ),
-            _react2.default.createElement(
-              _reactBootstrap.NavItem,
-              {
-                eventKey: 2,
-                href: '/contacts' },
-              'Contact Us'
-            )
-          ),
-          _react2.default.createElement(
-            _reactBootstrap.Nav,
             { pullRight: true },
             _react2.default.createElement(
               _reactBootstrap.NavItem,

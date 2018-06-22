@@ -14,7 +14,7 @@ class Navigation extends Component{
           <Navbar.Toggle />
         </Navbar.Header>
         <Navbar.Collapse>
-          <Nav>
+          {/* <Nav>
             <NavItem
               eventKey={1}
               href="/about">
@@ -25,7 +25,7 @@ class Navigation extends Component{
               href="/contacts">
               Contact Us
             </NavItem>
-          </Nav>
+          </Nav> */}
           <Nav pullRight>
             <NavItem
               eventKey={1}
